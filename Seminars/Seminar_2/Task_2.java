@@ -3,11 +3,12 @@
 // Вывод: a4b3cd2
 
 package Seminars.Seminar_2;
-
+import java.util.Scanner;
 public class Task_2 {
     public static void main(String[] args) {
-        
-            String fff = "aaaabbbcdd";
+        Scanner scanner = new Scanner(System.in);
+        System.out.printf("введите строку");
+        String inputText = scanner.next();
             
             System.out.println(Rle(fff));
         }

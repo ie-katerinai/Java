@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T19:53:17.126839Z</date>
+  <millis>1679773997126</millis>
+  <nanos>839000</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Create Object ArrayBubble</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.167225Z</date>
+  <millis>1679773997167</millis>
+  <nanos>225000</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Add element 163</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.167915Z</date>
+  <millis>1679773997167</millis>
+  <nanos>915000</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Add element 300</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.168204Z</date>
+  <millis>1679773997168</millis>
+  <nanos>204000</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Add element 184</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.168484Z</date>
+  <millis>1679773997168</millis>
+  <nanos>484000</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Add element 191</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.168828Z</date>
+  <millis>1679773997168</millis>
+  <nanos>828000</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Add element 174</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.169300Z</date>
+  <millis>1679773997169</millis>
+  <nanos>300000</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Print array</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.169556Z</date>
+  <millis>1679773997169</millis>
+  <nanos>556000</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Make a bubble sort to the initial array</message>
+</record>
+<record>
+  <date>2023-03-25T19:53:17.169899Z</date>
+  <millis>1679773997169</millis>
+  <nanos>899000</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWork.HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HomeWork.HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Print array</message>
+</record>
+</log>
